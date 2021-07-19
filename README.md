@@ -18,7 +18,7 @@ Aller dans le fichier [/config.json](https://github.com/SaabniaTv/Alice-Secur-Bo
 
 -> Dans un terminal noter = ``node main``
 
-## Author
+## Autheur
 
-* **Alice** _alias_ [@SaabniaTv](https://github.com/SaabniaTv)
+* **Alice** _alias_ [@SaabniaTv](https://github.com/SaabniaTv) UwU
 
