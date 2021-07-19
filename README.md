@@ -1,6 +1,6 @@
 # Alice-Secur-Bot-Discord
 
-Ceci est un bot qui va sécuriser votre discord des fichiers potentiellement malveillants en suppriment des fichiers du type ``.exe`` ou ``.bat`` (à configurer en cas de modification dans le [/main.js](https://github.com/SaabniaTv/)) ^^
+Ceci est un bot qui va sécuriser votre discord des fichiers potentiellement malveillants en suppriment des fichiers du type ``.exe`` ou ``.bat`` (à configurer en cas de modification dans le [/main.js](https://github.com/SaabniaTv/Alice-Secur-Bot-Discord/blob/master/main.js) ^^
 
 ## Avant toute chose !
 
@@ -14,7 +14,7 @@ Installer bien [Discord JS](https://discord.js.org/#/) sur votre projet sinon le
 
 ### 1er démarrage
 
-Aller dans le fichier [/config.json](https://github.com/SaabniaTv/), et remplacer "YOUR BOT TOKEN YEAAAHHHHHHHH <3 UwU" par votre bot Token !
+Aller dans le fichier [/config.json](https://github.com/SaabniaTv/Alice-Secur-Bot-Discord/blob/master/config.json), et remplacer "YOUR BOT TOKEN YEAAAHHHHHHHH <3 UwU" par votre bot Token !
 
 -> Dans un terminal noter = ``node main``
 
